@@ -1,5 +1,8 @@
 # Skin Cancer Detection Using Deep Learning
 
+## Author
+Aurel Elviolita Putri
+
 ## Project Overview
 
 This project focuses on the development of a deep learning–based system for early skin cancer detection using dermoscopic images. The main objective is to compare the performance of several convolutional neural network (CNN) architectures in classifying skin lesion images accurately and efficiently.
